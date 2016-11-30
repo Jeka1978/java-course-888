@@ -1,6 +1,7 @@
 package data;
 
 
+import lab1.Address;
 import lombok.Getter;
 import lombok.Setter;
 
